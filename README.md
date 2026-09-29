@@ -21,6 +21,6 @@ nor the simplest hypergraphs of their kind.
 
 Download the `.torrent` file:
 
-[Download the .torrent file](https://github.com/Mladen-Pavicic/Pavicic-videos/blob/main/entropy-pavicic-video-2026-4.mp4.torrent)
+[Download the .torrent file](https://github.com/Mladen-Pavicic/Pavicic-videos/raw/refs/heads/main/entropy-pavicic-video-2026-4.mp4.torrent)
 
 Open the downloaded `.torrent` file with qBittorrent or another BitTorrent client.
